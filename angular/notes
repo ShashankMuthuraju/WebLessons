@@ -1,0 +1,8 @@
+md= make directory(md directoryName)
+cd= change directory
+dir= listing directory
+
+"npm -g install @angular/cli"
+nodePackageManager -global install @angular/commandLineInterface
+"ng new myFirstApp"
+angular new nameOfTheApplication

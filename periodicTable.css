@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+h3{
+    border-style: solid;
+    border-color: black;
+}
+.alkalineEarth{
+    background-color: #faa84a;
+}
+.alkali{
+    background-color: #ee363c;
+}
+.lanthanide{
+    background-color: #f49cc3;
+}
+.transitionMetal{
+    background-color: #e5d634;
+}
+.actinide{
+    background-color: #b85f86;
+}
+.halogen{
+    background-color: #9157a4;
+}
+.nobleGas{
+    background-color: #5e427b;
+}
+.semiMetal{
+    background-color: #6ad0f5;
+}
+.bacisMetal{
+    background-color: #53c18a;
+}
+.nonMetal{
+    background-color: #7fb2df;
+}

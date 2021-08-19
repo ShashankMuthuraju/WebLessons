@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+.noble{
+    background-image: linear-gradient(0deg,#c547f4, #c42dfc,#a706e3, #8710b4);
+}
+.halogen{
+    background-image: linear-gradient(0deg,#595eeb, #2e34e2, #060ddf, #151aa6);
+}
+.nonmetal{
+    background-image: linear-gradient(0deg,#82f2e5, #42f0dc, #00ffe2, #23dbc6);
+}
+.semimetal{
+    background-image: linear-gradient(0deg,#51eeaf, #23ffa7, #00fb97, #16bb7a);
+}
+.basicmetal{
+    background-image: linear-gradient(0deg,#65f464, #3af039, #01f000, #14c413);
+    }
+.antanoids{
+    background-image: linear-gradient(0deg,#ff72de, #ff47d4, #ff18c9, #df1db2);
+}
+.lanthanoids{
+    background-image: linear-gradient(0deg,#fab0f7, #ff90fa, #fb65f4, #dd5ad6);
+}
+.alkalimetal{
+    background-image: linear-gradient(0deg,#f75757, #f73434, #f70909, #d41414);
+}
+.alkalineearth{
+    background-image: linear-gradient(0deg,#fead36, #f49d1d,#ff9800, #d78812);
+}
+.transition{
+    background-image: linear-gradient(0deg,#fffe69, #f4f237,#f6f300, #d7d51e);
+}
+td{
+padding:5px;
+text-align:center;
+}
+.atomicNumber{
+width:50px;
+text-align:left;
+}
+  
